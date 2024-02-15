@@ -29,3 +29,10 @@ This project deepened our understanding of the financial barriers faced by women
 ## What's next for Lumina Loans - Microloan and Grant Finder App
 
 We are committed to continuously improving Lumina Loans by expanding our database of financial resources, enhancing user experience, and integrating more personalized features to better serve women entrepreneurs across the globe. We also want to connect our software with bank API software, as well as find benefactors to help fund the start of developing our web app to a better position.
+
+![LuminaMain](https://github.com/pdoo2004/Lumina-Loans---HackViolet-2024/assets/130791427/f4186230-c1a7-456e-8dda-389bf2af236f)
+![LuminaMembership](https://github.com/pdoo2004/Lumina-Loans---HackViolet-2024/assets/130791427/377c6920-2e04-4375-a6ef-a29f2da099d2)
+
+![LuminaNews](https://github.com/pdoo2004/Lumina-Loans---HackViolet-2024/assets/130791427/2222f6bf-76e6-482a-b11b-632c4d44ad77)
+![LuminaStory](https://github.com/pdoo2004/Lumina-Loans---HackViolet-2024/assets/130791427/6621ac0a-c2b4-4f0e-aea4-e89eaf002148)
+
