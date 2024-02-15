@@ -25,6 +25,7 @@ Successfully bridging technology with finance to provide a valuable resource for
 ## What we learned
 
 This project deepened our understanding of the financial barriers faced by women entrepreneurs and the power of technology to overcome these challenges. It also highlighted the importance of resilience and innovation in developing solutions that have a real-world impact.
+![LuminaLoan](https://github.com/pdoo2004/Lumina-Loans---HackViolet-2024/assets/130791427/3f764d54-46e3-4c97-a685-281ee8ecd355)
 
 ## What's next for Lumina Loans - Microloan and Grant Finder App
 
